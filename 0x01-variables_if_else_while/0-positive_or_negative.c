@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main- assigns a random number to a given variable and
+ * main - assigns a random number to a given variable and
  * prints out the number stating if it is positive, negative or zero
- * Rretun: Always 0
+ * Return: Always 0
 */
 int main(void)
 {
