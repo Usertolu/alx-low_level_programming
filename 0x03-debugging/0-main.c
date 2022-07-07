@@ -2,7 +2,7 @@
 
 /**
  * maim- this code test function that prints whether an integer is positive or negative
- * Return: 0
+ * Return: zero
  */
 
 int main(void)
